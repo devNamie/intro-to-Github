@@ -1,0 +1,36 @@
+# macOS Finder files
+.DS_Store
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variable files (containing sensitive information like API tokens, etc.)
+.env
+
+# IDE/Editor files (e.g., VSCode, PyCharm)
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Virtual environment folder (for Python projects)
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Node.js dependencies
+node_modules/
+
+# Build output directories
+dist/
+build/
+
+# Dependency directories for other environments (if applicable)
+# .mypy_cache/
+# .tox/
+# .coverage/
