@@ -1,2 +1,2 @@
 # Intro to Github
-Hi I love hugh jackman
+Hi I love Hugh Jackman
