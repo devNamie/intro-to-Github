@@ -1,3 +1,3 @@
 # Intro to Github
-Hi I love Hugh Jackman
+Hi I am Alan Chin and I love BTS
 Hi I am Emory
